@@ -41,3 +41,19 @@ int main() {
 
     return 0;
 }
+
+/*
+// Simple example with for-loop
+
+  // Print the dosage
+  std::cout << "The dosage is:";
+  for (int i = 0; i < hours; i++) {
+    if (remainder > 0) {
+      std::cout << " " << hourly_dose + 1;
+      remainder--;
+    } else {
+      std::cout << " " << hourly_dose;
+    }
+  }
+  
+*/
